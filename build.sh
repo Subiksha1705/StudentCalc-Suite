@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t learning_web .
+docker build -t studcalc .
